@@ -46,6 +46,6 @@ Just type `make` in terminal at root directory of project.
 To change input, change contents of input, and type `make` again  
 
 ## Authors
-Moulik (185506)
-Swayam Kaul (185512)
+Moulik (185506)  
+Swayam Kaul (185512)  
 Rishabh Denkawat (185519)
