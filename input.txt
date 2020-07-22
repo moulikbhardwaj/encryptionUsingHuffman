@@ -1,0 +1,2 @@
+Hello, World!
+This is Moulik Bhardwaj here, encrypting this text using Huffman Code
